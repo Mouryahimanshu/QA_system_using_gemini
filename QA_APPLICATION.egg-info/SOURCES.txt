@@ -1,0 +1,9 @@
+setup.py
+QAWithPDF/__init__.py
+QAWithPDF/data_ingestion.py
+QAWithPDF/embedding.py
+QAWithPDF/model_api.py
+QA_APPLICATION.egg-info/PKG-INFO
+QA_APPLICATION.egg-info/SOURCES.txt
+QA_APPLICATION.egg-info/dependency_links.txt
+QA_APPLICATION.egg-info/top_level.txt
