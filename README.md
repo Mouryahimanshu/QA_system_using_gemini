@@ -6,10 +6,6 @@ An AI-powered Question Answering system built using Google Gemini API and LangCh
 
 🔗 [Try the Application](https://mouryahimanshu-qa-system-using-gemini-streamlitapp-1eswyz.streamlit.app/)
 
-## GitHub Repository
-
-🔗 [GitHub Repository](https://github.com/Mouryahimanshu/QA_system_using_gemini)
-
 ---
 
 ## Features
@@ -103,21 +99,5 @@ streamlit run app.py
 
 ---
 
-## Screenshots
-
-Add project screenshots here for better visualization.
-
-```markdown
-![App Screenshot](images/project.png)
-```
-
----
-
-## Author
-
-### Himanshu Mourya
-
-- GitHub: [Mouryahimanshu](https://github.com/Mouryahimanshu)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-id)
 
 ---
